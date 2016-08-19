@@ -1,4 +1,4 @@
-# Hola PHP
+# Hola PHP [![Build Status](https://travis-ci.org/secelite/php-hola.png)](https://travis-ci.org/secelite/php-hola)
 This is a simple library built to communicate with the Hola API of the Chrome browser extension.
 
 It can retrieve proxy information by country code including host, port, ip and auth information.
